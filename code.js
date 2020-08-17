@@ -287,7 +287,6 @@ window.ChatBot.data.swears = [
     "shit",
     "cock",
     "fck",
-    "penis",
     "bish",
     "bishes",
     "tits",
@@ -298,7 +297,6 @@ window.ChatBot.data.swears = [
     "hentai",
     "stripper",
     "striper",
-    "hentai",
     "hecktai",
     "hen with a tie",
     "prn",
@@ -315,7 +313,8 @@ window.ChatBot.data.swears = [
     "tits",
     "vagina",
     "thing is big",
-    "big thing"
+    "big thing",
+    "nigger"
 ];
 
 logInterval = 7200000;
